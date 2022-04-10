@@ -181,25 +181,4 @@ p {
      
     
 }
-@media (max-width: 480px) {
-    h1 , h2 , h3 {
-        font-size: 4.5rem;
-    }
-    .nav-link {
-        font-size: 4.5rem;
-        font-family: 'Montserrat-Light';
-    
-    }
-    
-    .navbar-brand {
-        font-family: 'Ubuntu';
-        font-size: 4.5rem ;
-        font-weight: bold;
-    }
-    .cta-heading {
-        font-size: 5rem;
-    }
-
-}
-
 
